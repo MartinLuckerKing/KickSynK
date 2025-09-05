@@ -1,0 +1,7 @@
+## Interface: 112062876
+## Title: KickSynK
+## Notes: Attribution automatique d’icônes fixes par rôle + gestion des focus/kicks
+## Author: MartinLuckerKing
+## Version: 1.5.3
+
+KickSynK.lua
